@@ -1,0 +1,16 @@
+target/
+target
+*.class
+target/*
+target
+./target/*
+./target
+./target/
+target
+*/*class
+
+*.json
+*.log
+*.html
+lib
+home
